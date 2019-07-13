@@ -1,0 +1,11 @@
+### ReactNative ###
+# React Native Stack Base
+
+.expo
+__generated__
+
+### ReactNative.Android Stack ###
+# Built application files
+*.apk
+*.ap_
+*.aab
